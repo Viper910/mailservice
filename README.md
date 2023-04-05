@@ -40,8 +40,7 @@ npm start
 ```
 npm start
 ```
-- The project will be online in http://localhost:3001
-
-# Project Overview:-
-
-- Welcome page
+- The project will be online in 
+```
+http://localhost:3001
+```
